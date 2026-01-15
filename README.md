@@ -1,92 +1,138 @@
 <div align="center">
 
-# 👋 Hey, I'm Junaith  
-### 🚀 Full Stack Developer | Linux Enthusiast | Cybersecurity Learner  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=S.%20Mohammed%20Junaith&fontSize=80&fontColor=2fa4ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+Secure+Web+Apps+%F0%9F%94%90;Learning+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;MERN+Stack+Developer+%F0%9F%92%BB;Linux+Power+User+%F0%9F%90%A7" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2FA4FF&center=true&vCenter=true&width=600&lines=B.E.+CSE+Student+(2024-2028);Software+Engineering+%26+Architecture+%F0%9F%9A%80;Building+Scalable+Full+Stack+Systems+%F0%9F%92%BB;Clean+Code+%2B+Design+Patterns+%F0%9F%A7%A9;Backend+Logic+%2B+Modern+UI+%F0%9F%8E%A8" />
+</a>
 
----
+<br/>
 
-## 🛡️ Tech Stack & Tools
+<div align="center" style="background-color: #161b22; padding: 20px; border-radius: 10px; border: 1px solid #30363d; width: 85%;">
+  <code><img height="20" src="https://raw.githubusercontent.com/apps/kawaii-icons/master/icons/settings.svg"> class Junaith extends SoftwareEngineer {</code>
+  <br/><br/>
+  "I approach development with an engineering mindset—prioritizing <b>scalability, readability, and performance</b>. Whether designing complex backend architectures or crafting responsive user interfaces with <b>Tailwind & React</b>, I build software that solves real-world problems efficiently."
+  <br/><br/>
+  <code>} // Ready to deploy</code>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis" />
-</p>
+<h3>🔭 Current Focus & Learning</h3>
+<table border="0" width="90%">
+  <tr>
+    <td width="50%">
+      <ul>
+        <li>🧩 <b>DSA:</b> Mastering Algorithms & efficiency.</li>
+        <li>💻 <b>Core CS:</b> Operating Systems & Low-level concepts.</li>
+        <li>🏗️ <b>System Design:</b> Building for scalability & reliability.</li>
+        <li>🔌 <b>Backend:</b> API Design & Microservices architecture.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <ul>
+        <li>🌐 <b>Full-Stack:</b> MERN Stack Engineering.</li>
+        <li>☁️ <b>DevOps:</b> CI/CD, Deployments & Server Management.</li>
+        <li>🤖 <b>AI/Data:</b> Exploring ML basics & Data Science.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-000?style=for-the-badge&logo=archlinux" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-000?style=for-the-badge&logo=kalilinux" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-</p>
-
----
-
-## 🔥 Featured Project
-
-### 🔮 Nexus Gate — Secure Authentication System  
-✅ JWT Access Token + Refresh Token  
-✅ RBAC (Role-Based Access Control)  
-✅ PostgreSQL + Express.js  
-✅ Secure Cookie-Based Auth  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Auth-JWT%20%2B%20Refresh%20Token-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-RBAC%20%2B%20Cookies-green?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunaithSM&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JunaithSM&theme=tokyonight" height="160"/>
-</p>
+<h2 align="center">🛠️ Technical Stack</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunaithSM&theme=tokyonight" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="130"><b>Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cpp,c" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Frontend & UI</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Backend & API</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Data & Cache</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>DevOps & Tools</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vim,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌍 Connect With Me
+<h2 align="center">🏗️ System Architecture Highlights</h2>
 
-<p align="center">
-  <a href="https://github.com/JunaithSM">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-junaith-s-93b460334/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+<table border="0" align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚕 Service Aggregation Platform</h3>
+      <p align="center"><i>A scalable on-demand service architecture.</i></p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Stack-MERN-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/API-Google_Maps-green?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li>Engineered a real-time location tracking system.</li>
+        <li>Implemented complex state management for user flows.</li>
+        <li>Designed RESTful endpoints for high-concurrency requests.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Nexus Gate Auth System</h3>
+      <p align="center"><i>Secure Identity & Access Management.</i></p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Security-JWT_&_RBAC-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cache-Redis-red?style=flat-square" />
+      </div>
+      <br/>
+      <ul>
+        <li>Built robust authentication with Refresh Token Rotation.</li>
+        <li>Implemented Role-Based Access Control (RBAC) middleware.</li>
+        <li>Secured data transport using HttpOnly Cookies.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📈 Code Metrics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JunaithSM&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaithSM&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8" height="160" />
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://linkedin.com/in/mohammed-junaith-s-93b460334/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:smohammedjunaith@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-### ⚡ Fun Facts
-💡 I love building secure systems & learning how things break  
-🐧 Daily driver: Arch / Kali  
-🎯 Goal: Become a top-tier Software Engineer + Security Engineer  
-
+  
+  <br/><br/>
+  <p style="color: #555555; font-size: 12px;">Engineering software for the modern web.</p>
 </div>
