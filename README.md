@@ -58,19 +58,12 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunaithSM&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JunaithSM&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
-</p>
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JunaithSM&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunaithSM&theme=tokyonight" />
 </p>
 
 ---
