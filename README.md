@@ -3,17 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=S.%20Mohammed%20Junaith&fontSize=80&fontColor=2fa4ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2FA4FF&center=true&vCenter=true&width=600&lines=B.E.+CSE+Student+(2024-2028);Software+Engineering+%26+Architecture+%F0%9F%9A%80;Building+Scalable+Full+Stack+Systems+%F0%9F%92%BB;Clean+Code+%2B+Design+Patterns+%F0%9F%A7%A9;Backend+Logic+%2B+Modern+UI+%F0%9F%8E%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2FA4FF&center=true&vCenter=true&width=600&lines=Software+Engineering+%26+Architecture+%F0%9F%9A%80;Building+Scalable+Full+Stack+Systems+%F0%9F%92%BB;Clean+Code+%2B+Design+Patterns+%F0%9F%A7%A9;Backend+Logic+%2B+Modern+UI+%F0%9F%8E%A8" />
 </a>
 
 <br/>
 
 <div align="center" style="background-color: #161b22; padding: 20px; border-radius: 10px; border: 1px solid #30363d; width: 85%;">
-  <code><img height="20" src="https://raw.githubusercontent.com/apps/kawaii-icons/master/icons/settings.svg"> class Junaith extends SoftwareEngineer {</code>
   <br/><br/>
   "I approach development with an engineering mindset—prioritizing <b>scalability, readability, and performance</b>. Whether designing complex backend architectures or crafting responsive user interfaces with <b>Tailwind & React</b>, I build software that solves real-world problems efficiently."
   <br/><br/>
-  <code>} // Ready to deploy</code>
 </div>
 
 <br/>
@@ -43,40 +41,24 @@
 
 ---
 
-<h2 align="center">🛠️ Technical Stack</h2>
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="130"><b>Languages</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cpp,c" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><b>Frontend & UI</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><b>Backend & API</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><b>Data & Cache</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><b>DevOps & Tools</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vim,vscode" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <h3 style="color: #2fa4ff;">CORE LANGUAGES</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cpp,c&perline=7" />
+  
+  <br/><br/>
+
+  <h3 style="color: #2fa4ff;">FRAMEWORKS & DATABASES</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,postgres,mysql,mongodb,redis,sqlite&perline=12" />
+
+  <br/><br/>
+
+  <h3 style="color: #2fa4ff;">TOOLS & PLATFORMS</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vim,vscode,docker&perline=7" />
+
+</div>
 
 ---
 
@@ -120,8 +102,12 @@
 <h2 align="center">📈 Code Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunaithSM&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaithSM&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunaithSM&theme=tokyonight" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JunaithSM&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JunaithSM&theme=tokyonight" height="180" />
 </div>
 
 <div align="center">
